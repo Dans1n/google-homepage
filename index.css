@@ -1,0 +1,74 @@
+.logo{
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+	text-align: center;
+	width: 280px;
+	top: 150px;
+
+    
+}
+.sec{
+	position: relative;
+	display: block;
+	margin: 0px auto;
+	top: 170px;
+    width: 700px;
+    height: 30px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+    top: -140px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.ul2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+    bottom: -422px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
